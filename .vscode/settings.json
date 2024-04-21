@@ -1,0 +1,23 @@
+{
+  "files.associations": {
+    "Fastfile": "ruby",
+    "Appfile": "ruby",
+    "*.ts": "typescript",
+    "*.tsx": "typescriptreact",
+    "*.json": "jsonc",
+    ".eslintrc": "json",
+    "COMMIT_EDITMSG": "git-commit",
+    "*.js": "javascript",
+    ".prettierrc.json": "json",
+    "stdio.h": "c",
+    "__locale": "c",
+    "sdl.h": "c",
+    "cpu.h": "c",
+    "string.h": "c",
+    "instructions.h": "c",
+    "debugging.h": "c",
+    "chip8_t.h": "c",
+    "chip8.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}
