@@ -1,0 +1,14 @@
+.vscode
+
+# Ignorer tous les fichiers .o
+*.o
+
+# Ignorer les fichiers binaires compilés
+chip8
+
+# Ignorer les dossiers spécifiques
+bin/
+obj/
+CHIP-8_25312_01
+Breakout.ch8
+.DS_Store
