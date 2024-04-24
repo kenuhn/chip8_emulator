@@ -5,7 +5,7 @@ Je suis ravi de vous présenter mon projet : un émulateur Chip8 développé en 
 En optant pour le C, j'assure une exécution rapide et une grande portabilité, rendant mon émulateur accessible sur différentes plateformes. Le projet comprend également un débogueur intégré pour faciliter le développement et la compréhension des jeux.
 
 Démarrage de l'Émulateur Chip8
-Prérequis
+Prérequis : 
 
 Avant de compiler et d'exécuter l'émulateur Chip8, assurez-vous que les outils suivants sont installés sur votre système :
 
